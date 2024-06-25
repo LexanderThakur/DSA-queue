@@ -6,3 +6,6 @@ remove O(n)
 
 Circular que
 add and remove O(1)
+
+
+rear=(rear+1)%size
